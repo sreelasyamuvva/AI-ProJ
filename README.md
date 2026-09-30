@@ -2,7 +2,8 @@
 
 An AI-powered web platform designed to help users improve their English communication skills through interactive conversations, group discussions, and presentation summarization.
 
-> **Note:** This is an academic project developed as part of the Software Engineering Lab at Rajiv Gandhi University of Knowledge Technologies (RGUKT), Ongole. For detailed information about the project's design, implementation, UML diagrams, testing, screenshots, and technical documentation, please refer to [`documentation.pdf`](documentation.pdf).
+> **Note:** This is an academic project developed as part of the Software Engineering Lab at Rajiv Gandhi University of Knowledge Technologies (RGUKT), Ongole. For detailed information about the project's design, implementation, UML diagrams, testing, screenshots, and technical documentation, please refer to [`documentation.pdf`](documentation.pdf).   
+**If the PDF does not open in GitHub's preview, download the raw file and open it locally.**
 
 ## Overview
 
